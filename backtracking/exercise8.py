@@ -1,0 +1,2 @@
+# Given a set of m variables and n registers, where m ≥ n, and the relation between variables which are dependent
+# on each other. Design a backtracking algorithm that finds all possible variable-register assignments.
