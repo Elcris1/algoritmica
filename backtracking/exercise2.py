@@ -43,4 +43,4 @@ def repartir( assets, solucio = [] ) -> list[list]:
 
 asset_list = [1,2,3,4,5,6,7,8,9,10]
 value_list = [10, 9, 5, 3, 3, 2, 2, 2, 2, 5]
-print(repartir(asset_list))
+print(divide_assets(asset_list))
