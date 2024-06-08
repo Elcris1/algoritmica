@@ -26,8 +26,8 @@ def count(current):
         sum += value_list[element-1]
     return sum  
 
-asset_list = [1,2,3,4,5,6,7,8,9,10]
-value_list = [10, 9, 5, 3, 3, 2, 2, 2, 2, 4]
+asset_list = [1,2,3,4,5,6]
+value_list = [10, 9, 5, 3, 3, 2,]
 
 
 print(backtracking(asset_list))
